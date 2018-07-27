@@ -1,4 +1,4 @@
-# dead-by-randomizer
+# Dead by Randomizer
 **The** shuffling tool for Dead by Daylight!
 
 ## Download
