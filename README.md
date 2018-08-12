@@ -32,4 +32,4 @@ When both sides accepted the invitation they are able to see who currently is on
 
 If you don't want to get stalked too hard, there is an opportunity of hiding your last set from others. ;)
 
-### DbR will receive functionality and performance - updates in the future!
+### DbR will receive functionality and performance updates in the future!
